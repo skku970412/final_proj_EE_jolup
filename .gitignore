@@ -1,0 +1,23 @@
+﻿# Python / backend
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/reservations.db
+backend/reservations.db-journal
+backend/tmp_*.py
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Reports / artifacts
+*.sqlite3
